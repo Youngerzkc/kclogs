@@ -1,0 +1,7 @@
+{"file":"/home/payroll/gopath/src/kclogs/log_test.go:9","level":"info","msg":"hello","time":"2018-11-03T15:57:58+08:00"}
+{"file":"/home/payroll/gopath/src/kclogs/log_test.go:9","level":"info","msg":"hello","time":"2018-11-03T15:58:01+08:00"}
+{"file":"/home/payroll/gopath/src/kclogs/log_test.go:9","level":"info","msg":"hello","time":"2018-11-03T15:58:03+08:00"}
+{"file":"/home/payroll/gopath/src/kclogs/log_test.go:9","level":"info","msg":"hello","time":"2018-11-03T15:58:10+08:00"}
+{"file":"/home/payroll/gopath/src/kclogs/log_test.go:9","level":"info","msg":"hello","time":"2018-11-03T15:58:12+08:00"}
+{"file":"/home/payroll/gopath/src/kclogs/log_test.go:9","level":"info","msg":"hello","time":"2018-11-03T15:58:13+08:00"}
+{"file":"/home/payroll/gopath/src/kclogs/log_test.go:9","level":"info","msg":"hello","time":"2018-11-03T15:58:15+08:00"}
